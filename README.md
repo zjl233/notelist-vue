@@ -1,4 +1,4 @@
-# hello-world
+# notelist-vue
 
 ## Project setup
 ```
